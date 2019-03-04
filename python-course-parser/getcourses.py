@@ -1,11 +1,11 @@
-#!/usr/bin/python3
-
 from bs4 import BeautifulSoup
 import re
 import json
 import random
 
-# CONSTANts
+# This parser requires downloading courses from U of M's Aurora website
+
+# CONSTANTS
 course_html_path = './Winter2019.html'
 new_json_file_path = './Winter2019CourseList.js'
 term='WINTER2019'
