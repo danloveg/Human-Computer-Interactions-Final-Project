@@ -13,10 +13,3 @@ Prior to writing the application, months were spent brainstorming, interviewing 
 We used HTML, JavaScript, and CSS (Bootstrap) to create our application. The project did not require that we create any persistence with a database or implement any security features.
 
 JavaScript libraries are loaded from file, not from any CDN.
-
-## Testing the Website
-To test, you can simply download the repository and open the `index.html` file in your favourite browser.
-
-You will be brought to a login page. There are no credentials required to enter the website.
-
-The homepage contains a tab for the student's schedule, the course registration page, and a tab for the user's personal information.
